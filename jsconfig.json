@@ -1,0 +1,11 @@
+  {
+  "compilerOptions": {
+    "outDir": "./build",
+    "baseUrl": "src",
+    "paths": {
+      "*": [
+        "./*"
+      ]
+    }
+  }
+}
